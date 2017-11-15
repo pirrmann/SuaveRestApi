@@ -1,0 +1,9 @@
+framework: net45
+
+source https://nuget.org/api/v2
+
+nuget FSharp.Core
+nuget FSharp.Data
+nuget FAKE
+nuget Newtonsoft.Json
+nuget Suave 1.0
